@@ -2,7 +2,7 @@ logstash:
   version: 5.2.2
 
 kibana:
-  version: 4.1.6-linux-x64
+  version: 4.5.4-linux-x64
   directory: /opt/pnda
 
 elasticsearch:
